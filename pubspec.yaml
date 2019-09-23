@@ -20,13 +20,10 @@ flutter:
 
   uses-material-design: true
 
-  assets:
-   - images/arnav.jpg
+  # assets:
+  # - images/picture.jpg
 
-  fonts:
-    - family: Lobster
-      fonts:
-        - asset: fonts/LobsterTwo-Regular.ttf
+
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
